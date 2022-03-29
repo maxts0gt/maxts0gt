@@ -5,7 +5,7 @@ Previously, I worked at [Milvus](https://milvus.co.kr/) as Tableau Consultant / 
 
 ## About Me
 
--   🔭 I’m currently working on: Building websites on Figma and React. Also, diving deep on algorithms at [Leetcode](https://leetcode.com/).
+-   🔭 I’m currently working on: Building websites on Next.js and React. Also, diving deep on algorithms at [Leetcode](https://leetcode.com/).
 -   🌱 I’m currently learning: Mastering React and learning Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/). When I got some time left, I work on my design skills with Figma, Adobe Xd and 3d models with Blender -> Spend as much time as possible on [Dirbbble](https://dribbble.com/).
 -   🤔 What I want to learn next: Really love to master [Three.js](https://threejs.org), [GSAP](https://greensock.com/), [D3.js](https://d3js.org/) and [TailwindCSS](https://scrimba.com/playlist/pdq3QsM).
 -   📫 How to reach me: `@maxtsogt` on Twitter!
