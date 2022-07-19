@@ -8,7 +8,7 @@ Previously, I worked at [Milvus](https://milvus.co.kr/) as Tableau Consultant / 
 -   🔭 I’m currently working on: Building websites with React and Node.js
 -   🌱 I’m currently learning: Mastering React and learning Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
 -   🤔 What I want to learn next: Everything I can put my hands on!
--   📫 How to reach me: `@maxtsogt` on Twitter!
+-   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I drink more coffee than water.
 
