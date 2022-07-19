@@ -1,7 +1,7 @@
 # Max Tsogt
 
-👋 Hi, I'm Max. I'm a data storyteller / software engineer.
-Previously, I worked at [Milvus](https://milvus.co.kr/) as Tableau Consultant / Architect. My programming journey started with Python and SQL. I fancy AI, cloud architecture and platform design. I am mostly on frontend, building applications with JavaScript and React and playing around in backend. 
+👋 Hi, I'm Max, tech enthusiast.
+Previously, I was CRM consultant / architect and business development manager. My programming journey started with Data Science through Python and SQL. I fancy AI, cloud architecture and nowadays, platform design. Currently, I'm mostly on frontend, building applications with JavaScript and React and some playing around in backend. 
 
 ## About Me
 
