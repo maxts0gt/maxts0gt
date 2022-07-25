@@ -1,10 +1,10 @@
 # Max Tsogt
 
-👋 Hi, I'm Max, a tech enthusiast.
-Previously, I was CRM consultant / architect and business development manager. 
-My coding journey started with Data Science through simple Python and SQL and that escalated quick. 
-I fancy AI, cloud architecture and nowadays, platform design. 
-Currently, I'm mostly on frontend, building applications with JavaScript and React and some playing around in backend. 
+👋 Hi, I'm Max, a tech enthusiast.  
+Previously, I was CRM consultant / architect and business development manager.   
+My coding journey started with Data Science through simple Python and SQL and that escalated quick.   
+I fancy AI, cloud architecture and nowadays, platform design.   
+Currently, I'm mostly on frontend, building applications with JavaScript and React and some playing around in backend.   
 
 ## About Me
 
