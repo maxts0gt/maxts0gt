@@ -1,29 +1,20 @@
 # Max Tsogt
 
 👋 Hi, I'm Max, a tech enthusiast.  
-Previously, I was CRM consultant / architect and business development manager.   
-My coding journey started with Data Science through simple Python and SQL and that escalated quick.   
-I fancy AI, cloud architecture and nowadays, platform design.   
-Currently, I'm mostly on frontend, building applications with JavaScript and React and some playing around in backend.   
+I fancy any new technologies and languages. I try to be full-stack developer. Currently mostly coding with Golang.
+Open to any opportunities in the backend or DevOps, if it is in Golang or any Three.js projects in the front-end. 
 
 ## About Me
 
--   🔭 I’m currently working on: Building websites with React and Node.js
--   🌱 I’m currently learning: Mastering React and learning Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
--   🤔 What I want to learn next: Everything I can put my hands on!
+-   🔭 I’m currently working on: Building projects with Golang (servers, blockchains, microservices and AI)
+-   🌱 I’m currently learning: Try to improve my React and Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
+-   🤔 What I want to learn next: I have a long list of courses and path on [Educative.io](https://educative.io).
 -   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: I drink more coffee than water.
+-   ⚡ Fun fact: .
 
 ## 🔧 Tools I Like To Use
 
 -   [React](https://reactjs.org/)
--   [NextJS](https://nextjs.org/) 
--   [Figma](https://www.figma.com/)
--   [TailwindCSS](https://tailwindcss.com/)
--   [Flutter](https://flutter.dev/)
--   [Tableau](https://www.tableau.com/)
--   [Adobe Xd](https://www.adobe.com/products/xd.html)
--   [Blender](https://www.blender.org/)
--   [Plasmic](https://www.plasmic.app/)
--   [Webflow](https://webflow.com/)
+-   [Golang](https://go.dev/)
+-   And lot more... But currently, I'd like to play with only above two. 
