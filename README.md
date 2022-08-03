@@ -11,7 +11,7 @@ Open to any opportunities in the backend or DevOps, if it is in Golang or any Th
 -   🤔 What I want to learn next: I have a long list of courses and path on [Educative.io](https://educative.io).
 -   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: .
+-   ⚡ Fun fact: Drinking more coffee than water. It might be not healthy I think. 
 
 ## 🔧 Tools I Like To Use
 
