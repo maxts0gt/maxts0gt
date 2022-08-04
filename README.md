@@ -7,7 +7,7 @@ Open to any opportunities in the backend or DevOps if it is in Golang or any Thr
 ## About Me
 
 -   🔭 I’m currently working on: Building projects with Golang (servers, blockchains, microservices and AI)
--   🌱 I’m currently learning: Try to improve my React and Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
+-   🌱 I’m currently learning: Trying to improve my React and Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
 -   🤔 What I want to learn next: I have a long list of courses and path on [Educative.io](https://educative.io).
 -   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
 -   😄 Pronouns: He/Him
