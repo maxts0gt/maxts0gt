@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Max, a tech enthusiast.  
 I fancy any new technologies and languages. I try to be full-stack developer. Currently mostly coding with Golang.
-Open to any opportunities in the backend or DevOps, if it is in Golang or any Three.js projects in the front-end. 
+Open to any opportunities in the backend or DevOps if it is in Golang or any Three.js projects in the front-end. 
 
 ## About Me
 
