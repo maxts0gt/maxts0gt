@@ -17,4 +17,4 @@ Open to any opportunities in the backend or DevOps if it is in Golang or any Thr
 
 -   [React](https://reactjs.org/)
 -   [Golang](https://go.dev/)
--   And lot more... But currently, I'd like to play with only above two. 
+-   And more... 
