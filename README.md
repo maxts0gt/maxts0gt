@@ -1,20 +1,13 @@
 # Max Tsogt
 
 👋 Hi, I'm Max, a tech enthusiast.  
-I fancy any new technologies and languages. I try to be full-stack developer. Currently mostly coding with Golang.
-Open to any opportunities in the backend or DevOps if it is in Golang or any Three.js projects in the front-end. 
+I fancy any new technologies and languages. I used be data analyst, consultant, fullstack developer. Now, I try to be DevSecOps, mostly playing around Infrastructure.
 
 ## About Me
 
--   🔭 I’m currently working on: Building projects with Golang (servers, blockchains, microservices and AI)
--   🌱 I’m currently learning: Trying to improve my React and Golang. My GoTo -> [Epic React](https://epicreact.dev/) and [Golang](https://www.ardanlabs.com/).
--   🤔 What I want to learn next: I have a long list of courses and path on [Educative.io](https://educative.io).
+-   🔭 I’m currently working on: Building pipelines and implementing best DevSecOps best practices.
+-   🌱 I’m currently learning: Trying to deepen my knowledge on Kubernetes and Microservices.
+-   🤔 What I want to learn next: Mostly SRE and Security related practices.
 -   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
 -   😄 Pronouns: He/Him
--   ⚡ Fun fact: Drinking more coffee than water. It might be not healthy I think. 
-
-## 🔧 Tools I Like To Use
-
--   [React](https://reactjs.org/)
--   [Golang](https://go.dev/)
--   And more... 
+-   ⚡ Fun fact: Oh well... 
