@@ -1,7 +1,7 @@
 # Max Tsogt
 
 👋 Hi, I'm Max, a tech enthusiast.  
-I fancy any new technologies and languages. I used be data analyst, consultant and developer. Now, I try to be DevSecOps, mostly playing around Infrastructure.
+I love mastering technologies and languages. Currently, mostly practicing DevSecOps in AWS Infrastructure.
 
 ## About Me
 
