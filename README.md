@@ -1,7 +1,7 @@
 # Max Tsogt
 
 👋 Hi, I'm Max, a tech enthusiast.  
-I love mastering technologies and languages. Currently, mostly practicing DevSecOps in AWS Infrastructure.
+I love mastering technologies and languages. Currently, mostly practicing DevSecOps in AWS Infrastructure on this handle -> [max-ts0gt](https://github.com/max-ts0gt).
 
 ## About Me
 
