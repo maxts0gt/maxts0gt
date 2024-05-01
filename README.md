@@ -8,5 +8,5 @@ Doing what I lovem as DevSecOps, in AWS Infrastructure on this handle -> [max-ts
 -   🔭 I’m currently working on: Building pipelines and implementing DevSecOps best practices.
 -   🌱 I’m currently learning: Seems every obstacle is a way to learn in modern IT.
 -   🤔 What I want to learn next: Face more obstacles.
--   📫 How to reach me: `@maxtsogt` on [Twitter!](https://twitter.com/maxtsogt)
+-   📫 How to reach me: `@maxtsogt` on [X!](https://twitter.com/maxtsogt)
 -   ⚡ Fun fact: Oh well... 
