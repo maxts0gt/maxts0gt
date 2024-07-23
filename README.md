@@ -1,7 +1,7 @@
 # Max Tsogt
 
-👋 Hi, I'm Max, a tech enthusiast.  
-Doing what I lovem as DevSecOps, in AWS Infrastructure on this handle -> [max-ts0gt](https://github.com/max-ts0gt).
+👋 Hi, I'm Max, DevOps engineer.
+Currently, I am active on this handle -> [max-ts0gt](https://github.com/max-ts0gt).
 
 ## About Me
 
